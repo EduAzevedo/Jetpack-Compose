@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quadrantes_no_Compose</string>
+    <string name="first_title">Texto Composable</string>
+    <string name="first_description">Exibe texto e segue as diretrizes do Material Design.</string>
+    <string name="second_title">Imagem Composable</string>
+    <string name="second_description">Cria um elemento Composable que apresenta e desenha um determinado objeto da classe Painter.</string>
+    <string name="third_title">Linha Composable</string>
+    <string name="third_description">Um layout Composable que coloca seus filhos em uma sequência horizontal.</string>
+    <string name="fourth_title">Coluna Composable</string>
+    <string name="fourth_description">Um layout Composable que coloca seus filhos em uma sequência vertical.</string>
+</resources>
